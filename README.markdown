@@ -1,0 +1,1 @@
+# Ruby on Rails is Kickass: Sample Application
